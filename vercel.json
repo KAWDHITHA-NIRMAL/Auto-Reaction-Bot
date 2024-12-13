@@ -14,7 +14,7 @@
     ],
     "env": {
       "BOT_TOKEN": "8133006032:AAFX813Z109qt7pfU7uGiRPHoAEy6zt1l6s",
-      "BOT_USERNAME":@testbothuahfbot",
+      "BOT_USERNAME":"@testbothuahfbot",
       "EMOJI_LIST": "😂🤣☺️🥸😒😠😱😱🫠🤔😔😞😝🤩🤬🫣🫠",
       "RANDOM_LEVEL": "Optional",
       "RESTRICTED_CHATS": "Optional"
